@@ -9,7 +9,7 @@ h1 {
   text-align: center;
 }
 
-p.download {
+p.download a {
   font-size: 16px;
   text-align: center;
   color: Aquamarine;
